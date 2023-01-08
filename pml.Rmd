@@ -10,8 +10,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
-# September 13, 2016
+# MAP
 
 ```{r chunk 1}
 place <- c("16 Buckingham Drive", "Eastampton Community School", "Rancocas Valley Regional High School", "Buttonwood Park", "Rutgers University", "University of California, Los Anglees", "10941 Strathmore Drive", "Aurora", "Coffee Bean", "many dollars spent, many books unread, much music heard", "St. Agnes Hospital", "Talvandi Arain", "Sialkot, Punjab", "Dharamsala, Himachal Pradesh", "Magnolia Hotel", "Wu Tang Klang", "Shrine of Bullhe Shah", "St. Joseph Hospital", "Lahore, Punjab", "Ratajoa (Pool of Blood)" )
